@@ -22,6 +22,7 @@ The project contains:
         |
         |-> ./Case.zip/ #Contains al the .stl for the enclosure
 ```
+More technical info and measurements about the microphone can be found in [MEASUREMENTS](./MEASUREMENTS.md)
 
 ## Overview
 
